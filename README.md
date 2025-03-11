@@ -19,8 +19,8 @@ The dataset consists of:
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone 
+cd your-repo https://github.com/tgchandu25/Object-Detection-with-Camera-and-Radar-Data-for-Autonomous-Vehicles/edit/main/README.md
 pip install -r requirements.txt
 ```
 
